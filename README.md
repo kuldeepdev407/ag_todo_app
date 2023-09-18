@@ -7,7 +7,7 @@ Open folder in terminal and type `npm run serve` to run the json-server server w
 ### Run Front-End
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Refrence
+## Reference
 Traversy Media - https://www.youtube.com/watch?v=3dHNOWTI7H8
 
 
