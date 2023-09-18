@@ -1,0 +1,28 @@
+.form-control {
+    font-size: 1rem;
+    display: flex;
+    padding: 5px 0px;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.form-control-check {
+    flex-direction: row-reverse;
+    justify-content: start;
+    align-items: center; 
+}
+
+.form-control-check input {
+    max-width: min-content;
+    margin-right: 10px;
+}
+
+.form-control input{
+    width: 100%;
+    font-size: 1rem;
+    padding: 5px;
+}
+
+.add-form {
+    margin-bottom: 20px;
+}
